@@ -1,8 +1,9 @@
 # Controls
+
 - Right click to select first blob
 
 - Left click to select second blob
-- 
+
 - A + Mouse Wheel to change angle
 
 - W + Mouse Wheel to change mass
@@ -11,6 +12,6 @@
 
 - C to clear path
 
- - X to toggle path mode
+- X to toggle path mode
  
 - Z to restart
